@@ -1,0 +1,23 @@
+# folders
+
+node_modules
+.git
+node_modules
+app
+www
+dist
+.tmp
+bower_components
+test/bower_components
+yarn-error.log
+
+
+# files
+
+yarn.lock
+.gitignore
+.gitattributes
+.eslintrc.json
+.editorconfig
+.yo-rc.json
+gulpfile.js
